@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Dey</h1>
-<h3 align="center">A passionate web developer and tech enthusiast pursuing a B.Tech in Computer Science and Engineering from JIS University .</h3>
+<h3 align="center">A passionate frontend developer and tech enthusiast pursuing a B.Tech in Computer Science and Engineering from JIS University .</h3>
 
 
 - 🌱 I’m currently learning **node.js,aws,react**
