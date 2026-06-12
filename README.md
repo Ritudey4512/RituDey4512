@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritu Dey</h1>
-<h3 align="center">A passionate Frontend developer and tech enthusiast pursuing a B.Tech in Computer Science and Engineering from JIS University .</h3>
+<h3 align="center"> A B.Tech Computer Science student at JIS University, currently pursuing my degree and building skills in Data Analytics, Data Visualization, and Business Intelligence. </h3>
 
-- 🌱 I’m currently learning **node.js,aws,react**
+- 🌱 I’m currently learning **Excel,Tableau**
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **Power BI**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ritu-dey-59a381329/**
+- 📫 How to reach me **dey2004ritu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
