@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritu Dey</h1>
-<h3 align="center">A B.Tech Computer Science student at JIS University, currently pursuing my degree and building skills in Data Analytics, Data Visualization, and Business Intelligence.</h3>
+<h3 align="center">A B.Tech Computer Science student at JIS University, currently pursuing my degree and building skills in Data Analytics, Data Visualization,
+  Business Intelligence, Artificial Intelligence and Machine Learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/dey_ritu22420" target="blank"><img src="https://img.shields.io/twitter/follow/dey_ritu22420?logo=twitter&style=for-the-badge" alt="dey_ritu22420" /></a> </p>
 
-- 🌱 I’m currently learning **Excel,Tableau**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Power BI,SQL**
+- 💬 Ask me about **Power BI,SQL,Python**
 
 - 📫 How to reach me **dey2004ritu@gmail.com**
 
