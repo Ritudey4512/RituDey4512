@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dey_ritu22420" target="blank"><img src="https://img.shields.io/twitter/follow/dey_ritu22420?logo=twitter&style=for-the-badge" alt="dey_ritu22420" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **RAG and LLM**
 
 - 💬 Ask me about **Power BI,SQL,Python**
 
